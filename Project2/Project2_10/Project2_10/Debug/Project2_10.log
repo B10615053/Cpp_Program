@@ -1,0 +1,25 @@
+﻿  BigNumberOperation.cpp
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\BigNumberOperation.cpp(102,15): warning C4018: '>=': signed/unsigned 不相符
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\BigNumberOperation.cpp(85,20): warning C4101: 'k': 未參考的區域變數
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\BigNumberOperation.cpp(85,23): warning C4101: 'i': 未參考的區域變數
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\BigNumberOperation.cpp(144,15): warning C4018: '>=': signed/unsigned 不相符
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\BigNumberOperation.cpp(123,20): warning C4101: 'k': 未參考的區域變數
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\BigNumberOperation.cpp(123,23): warning C4101: 'i': 未參考的區域變數
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\BigNumberOperation.cpp(188,15): warning C4018: '>=': signed/unsigned 不相符
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\BigNumberOperation.cpp(173,20): warning C4101: 'k': 未參考的區域變數
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\BigNumberOperation.cpp(173,23): warning C4101: 'i': 未參考的區域變數
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\BigNumberOperation.cpp(455,49): warning C4101: 'dendLen': 未參考的區域變數
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\BigNumberOperation.cpp(455,7): warning C4101: 'k': 未參考的區域變數
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\BigNumberOperation.cpp(455,65): warning C4101: 'ansLen': 未參考的區域變數
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\BigNumberOperation.cpp(455,39): warning C4101: 'disorLen': 未參考的區域變數
+  Decimal.cpp
+  Expression.cpp
+  Integer.cpp
+  main.cpp
+  Number.cpp
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\Number.cpp(84,16): warning C4018: '<': signed/unsigned 不相符
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\Number.cpp(140,16): warning C4018: '<': signed/unsigned 不相符
+  正在產生程式碼...
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\Integer.cpp(59): warning C4172: 傳回區域變數或暫存的位址: b
+D:\C++_Program\Computer Science\Project2\Project2_10\Project2_10\Decimal.cpp(79): warning C4172: 傳回區域變數或暫存的位址: a
+  Project2_10.vcxproj -> D:\C++_Program\Computer Science\Project2\Project2_10\Debug\Project2_10.exe
